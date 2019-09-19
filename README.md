@@ -8,9 +8,9 @@ This app doesn't require any specific instructions for compilation since it has 
 
 ## Usage
 
-Run the following command to start a timer for the request `work` and `rest` seconds for the `taskName` task:
+Run the following command to start a timer for the required time for the `taskName` task:
 
-``` ./gomodoro taskName -work 25 -rest 5 -repeat 2 ```
+``` ./gomodoro taskName -work 25m -rest 5.5m -reps 2 ```
 
 - Enjoy the `r/aww` moments between your work!
 
